@@ -60,10 +60,16 @@
     "sinon-chai": "^2.8.0",
     "webpack": "^1.13.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnamdiwill/thinkful-react-starter-master.git"
+  },
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
     "react": "^15.3.1",
     "react-dom": "^15.3.1",
+    "react-addons": "^0.9.1-deprecated",
+    "react-addons-test-utils": "^15.3.2",
     "react-redux": "^4.4.5",
     "redux": "^3.6.0",
     "redux-thunk": "^2.1.0"
